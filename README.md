@@ -13,4 +13,4 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=owenzhang76&theme=merko&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=owenzhang76&theme=gruvbox&show_icons=true&count_private=true)
