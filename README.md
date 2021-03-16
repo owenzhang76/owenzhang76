@@ -10,7 +10,7 @@ I'm Owen, a business & tech student at Washington University in St. Louis.
 - 🌱 This summer, I'll be to working to gamify Google Photos
 
 
-- 👾 I'm interested in Social Entrepreneurship, Game Dev, and Venture Capital
+- 👾 I'm interested in Game Dev, Venture Capital, and Social Entrepreneurship!
 
 <br>
 
