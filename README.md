@@ -1,5 +1,5 @@
 # **Hi there 👋**  
-## <div align="center">I'm Owen, a business & tech student at Washington University in St. Louis</div>  
+### I'm Owen, a business & tech student at Washington University in St. Louis
 
 
 - ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup
