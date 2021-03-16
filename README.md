@@ -1,4 +1,4 @@
-# **Hi There 👋**  
+# **Hi there! 👋**  
 
 ### Some of My Skills
 <div align="center">  
