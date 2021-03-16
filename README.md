@@ -1,7 +1,8 @@
 # **Hi there 👋**  
 I'm Owen, a business & tech student at Washington University in St. Louis.
-<br> <br>
-Currently, I'm working on a healthcare startup, building a social productivity app, and this summer I'll be gamifying Google Photos in San Diego!
+<br>
+<br>
+Currently, I'm working on a healthcare startup, building a social productivity app, and this summer I'll be working to gamify Google Photos.
 
 ### Here are some of my skills
 <div align="center">  
