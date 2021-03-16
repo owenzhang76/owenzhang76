@@ -24,6 +24,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />       
 </div>  
+<br>
 
 ## Connect with me! 
 <div align="center">
@@ -37,6 +38,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
+<br>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" /></div>
