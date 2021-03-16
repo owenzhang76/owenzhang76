@@ -25,9 +25,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />       
 </div>  
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" /></div>
-
 ## Connect with me! 
 <div align="center">
 <a href="https://github.com/owenzhang76" target="_blank">
@@ -39,7 +36,10 @@
 <a href="https://linkedin.com/in/the-owen-zhang" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" align="center" /></div>
 
 <br>
 <div align="center">
