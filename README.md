@@ -1,8 +1,13 @@
 # **Hi there 👋**  
 I'm Owen, a business & tech student at Washington University in St. Louis.
-<br>
-<br>
-Currently, I'm working on a healthcare startup, building a social productivity app, and this summer I'll be working to gamify Google Photos.
+
+- ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup  
+  
+
+- 🏗 I’m currently building a social productivty app
+  
+
+- 🌱 This summer, I'll be to working to gamify Google Photos
 
 ### Here are some of my skills
 <div align="center">  
