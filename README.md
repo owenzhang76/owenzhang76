@@ -5,5 +5,8 @@
 
 Here are some ideas to get you started:
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+
 
