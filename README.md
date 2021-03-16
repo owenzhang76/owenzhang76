@@ -33,5 +33,5 @@ Currently, I'm working on a healthcare startup, building a social productivity a
 
 <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=owenzhang76&&style=flat-square" align="center" />
 </div>  
