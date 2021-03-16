@@ -5,4 +5,5 @@
 
 Here are some ideas to get you started:
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenzhang76&count_private=true&hide=contribs,prs)
+![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true)
+
