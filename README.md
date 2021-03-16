@@ -7,8 +7,3 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tylertaewook&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-<br />
