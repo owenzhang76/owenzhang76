@@ -10,8 +10,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
 </div>  
 
-Here are some ideas to get you started:
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=owenzhang76&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
