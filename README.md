@@ -4,10 +4,15 @@ I'm Owen, a business & tech student at Washington University in St. Louis.
 - ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup  
   
 
-- 🏗 I’m currently building a social productivty app
+- 🏗 I’m currently learning about crypto and Docker
   
 
 - 🌱 This summer, I'll be to working to gamify Google Photos
+
+
+- 👾 I'm interested in Social Entrepreneurship, Game Dev, and Venture Capital
+
+<br>
 
 ### Here are some of my skills
 <div align="center">  
