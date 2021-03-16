@@ -1,10 +1,11 @@
 # **Hi there 👋**  
-I'm Owen, a business & tech student at Washington University in St. Louis.
+### <div align="center">I'm Owen, a business & tech student at Washington University in St. Louis</div>  
 
-- ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup  
+
+- ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup
   
 
-- 🏗 I’m currently learning about crypto and Docker
+- 🏗 I’m currently learning about crypto and Docker (& holding $GME 🚀)
   
 
 - 🌱 This summer, I'll be to working to gamify Google Photos
