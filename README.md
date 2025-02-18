@@ -11,7 +11,7 @@ My mission with Global Citizens is to nuke the archaic and exploitative global i
 
 - I worked on Google Maps, Google Photos, and ChromeOS, and created features that have been used over 100M times.
 
-- I was the President of [Sling Health](https://slinghealthstl.org), the largest student-run healthcare accelerator in the nation. I invested $250,000 in over 50 teams. 
+- I was the President of [Sling Health](https://slinghealthstl.org), the largest student-run healthcare accelerator in the nation. I invested $250,000 in over 50 digital health and MedTech startups. 
 
 - I was a fellow in the inaugural cohort of Floodgate [Reactor](https://medium.com/@amk/introducing-reactor-basecamp-for-future-founders-2745fc34af16).
   
