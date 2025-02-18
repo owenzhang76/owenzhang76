@@ -7,7 +7,7 @@ My mission with Global Citizens is to nuke the archaic and exploitative global i
 
 - I'm leading the SF chapter of [Sigma Squared](https://www.sigma-squared.org), the world's most ambitious founders under 26, working on ventures with a positive societal impact. 
   
-- I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine.
+- I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine aimed at decreasing healthcare disparities. 
 
 - I worked on Google Maps, Google Photos, and ChromeOS, and created features that have been used over 100M times.
 
