@@ -1,10 +1,11 @@
 # **Hi there 👋**  
+<br>
 ### I'm Owen, and I'm building global immigration and visa infrastructure to automate 90% of any visa category for any country at [Global Citizens](https://globalcitizens.ai). 
+<br>
 
+- I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine.
 
-- ⛑ I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine.
-
-- 🏗 I worked on Google Maps, Google Photos, and ChromeOS, and created features that have been used over 100M times.
+- I worked on Google Maps, Google Photos, and ChromeOS, and created features that have been used over 100M times.
 
 - I was the President of [Sling Health](https://slinghealthstl.org), the largest student-run healthcare accelerator in the nation. I invested $250,000 in over 50 teams. 
 
