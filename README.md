@@ -2,6 +2,8 @@
 
 ### I'm Owen, and I'm building global immigration and visa infrastructure to automate 90% of any visa category for any country at [Global Citizens](https://globalcitizens.ai). 
 My mission with Global Citizens is to nuke the archaic and exploitative global immigration industry. I want to build something that makes immigration pleasant, by making the process stress-free, fast, and a fraction of the financial burden than it is today. Global Mobility shouldn't be available only to the rich and privileged. 
+
+<br>
 <br>
 
 - I'm leading the SF chapter of [Sigma Squared](https://www.sigma-squared.org), the world's most ambitious founders under 26, working on ventures with a positive societal impact. 
