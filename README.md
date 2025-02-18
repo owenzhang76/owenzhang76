@@ -1,5 +1,6 @@
 # **Hi there 👋**  
-### I'm Owen, I'm building Global Citizens. I want to nuke the archaic and exploitative global immigration industry.
+### I'm Owen, and I'm building global immigration and visa infrastructure to automate 90% of any visa category for any country at [Global Citizens](https://globalcitizens.ai). 
+I want to nuke the archaic and exploitative global immigration industry.
 
 
 - ⛑ I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine.
