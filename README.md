@@ -1,17 +1,11 @@
 # **Hi there 👋**  
-### I'm Owen, a business & tech student at Washington University in St. Louis
+### I'm Owen, I'm building Global Citizens. I want to nuke the archaic and exploitative global immigration industry.
 
 
-- ⛑ I’m currently working on [Caralyst](https://caralyst.io), a healthcare startup
+- ⛑ I was a cofounder and CTO of [Caralyst Health](https://caralyst.io), an algorithmic physician search engine.
   
 
-- 🏗 I’m currently learning about crypto and Docker (& holding $GME 🚀)
-  
-
-- 🌱 This summer, I'll be to working to gamify Google Photos
-
-
-- 👾 I'm interested in Game Dev, Venture Capital, and Social Entrepreneurship!
+- 🏗 I worked on Google Maps, Google Photos, and ChromeOS, and created features that have been used over 100M times. 
 
 <br>
 
@@ -31,7 +25,7 @@
 <a href="https://github.com/owenzhang76" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/owenzhanger1" target="_blank">
+<a href="https://twitter.com/@0xZhanger" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/the-owen-zhang" target="_blank">
